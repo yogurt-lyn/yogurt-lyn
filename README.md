@@ -21,5 +21,3 @@ Research focus: **Medical Multimodal Large Language Models (Medical MLLM)** for 
   <img src="https://github-readme-stats.vercel.app/api?username=yogurt-lyn&show_icons=true&theme=tokyonight&count_private=true " height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogurt-lyn&layout=compact&theme=tokyonight " height="180" />
 </div>
-
-> 💡 *Layout inspired by open-source academic profiles — all content is original.*
